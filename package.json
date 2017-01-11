@@ -1,0 +1,16 @@
+{
+  "name": "express-handlebars-sass-starter-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "express": "~4.13.4",
+    "express-autoprefixer": "^5.1.1",
+    "express-handlebars": "^3.0.0",
+    "node-sass-middleware": "0.8.0",
+    "serve-favicon": "~2.3.0"
+  }
+}

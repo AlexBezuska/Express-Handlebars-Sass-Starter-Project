@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../scss/css/main.scss",
+		"../../scss/css/_colors.scss",
+		"../../scss/css/_typography.scss",
+		"../../scss/css/_structure.scss"
+	],
+	"mappings": "AGAA,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,UAAW,GACxB;;AACD,AAAA,CAAC,EAAE,AAAC,CAAA,AAAA,OAAO,EAAE,AAAC,CAAA,AAAA,MAAM,CAAC;EACnB,UAAU,EAAE,OAAQ,GACrB;;AAED,AAAA,cAAc,CAAA;EACZ,UAAU,EAAE,MAAO,GACpB",
+	"names": []
+}
