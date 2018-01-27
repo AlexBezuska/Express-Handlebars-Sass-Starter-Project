@@ -1,7 +1,7 @@
 
-#Express Handlebars Sass Starter Project
+# Express Handlebars Sass Starter Project
 
-###Features:
+### Features:
 * Express for easy routes
 * Server-side handlebars compilation
 * Easy handlebars helpers and partials
